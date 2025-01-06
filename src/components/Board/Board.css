@@ -1,0 +1,17 @@
+h1 {
+    background-color: lightblue;
+    color: white;
+    padding: 20px;
+    margin: 0 22px;
+    font-size: 30px;
+    text-transform: uppercase;
+  }
+
+  p {
+    /* background-color: lightblue;
+    color: white;
+    padding: 20px;
+    margin: 0 22px;
+    font-size: 12px; */
+    /* text-transform: uppercase; */
+  }
